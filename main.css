@@ -4,3 +4,7 @@
 @import url("style/categories-cards.css");
 @import url("style/util.css");
 @import url("style/selector.css");
+i{
+    color: gray;
+    cursor: pointer;
+}
