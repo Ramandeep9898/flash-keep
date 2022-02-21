@@ -1,0 +1,7 @@
+.tool-nav-list{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    margin: 10px 50px;
+    
+}
