@@ -1,3 +1,11 @@
 @import url("style/var.css");
 @import url("style/navbar.css");
 @import url("style/typo.css");
+@import url("style/categories-cards.css");
+@import url("style/util.css");
+@import url("style/selector.css");
+@import url("style/draw-tools-nav.css");
+i{
+    color: gray;
+    cursor: pointer;
+}
